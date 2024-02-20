@@ -1,0 +1,17 @@
+li:hover {
+background-color: red;}
+
+input:focus {
+background-color: lightgray;}
+
+li:nth-child(2n) {
+background-color: aqua;}
+
+span:last-of-type {
+background-color: brown;}
+
+li:first-of-type {
+background-color: blue;}
+
+li:nth-last-of-type(2) {
+background-color: purple;}
